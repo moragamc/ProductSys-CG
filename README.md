@@ -1,2 +1,1 @@
-# ProductSysMovies
-Sistema de productos de peliculas.
+# ProductSys-GC
